@@ -131,7 +131,7 @@ Smart-Meeting-Summary-Generator/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/smart-meeting-summary-generator.git
+git clone https://github.com/nakul85/smart-meeting-summary-generator.git
 ```
 
 Move into the project
