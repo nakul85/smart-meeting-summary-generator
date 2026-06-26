@@ -230,8 +230,3 @@ http://localhost:8501
 - Authentication and user accounts
 - Cloud deployment
 
----
-
-## License
-
-This project is licensed under the MIT License.
