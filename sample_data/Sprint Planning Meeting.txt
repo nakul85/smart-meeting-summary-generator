@@ -1,0 +1,15 @@
+Sprint Planning Meeting
+
+Agenda:
+Sprint 12 planning.
+
+Discussion:
+Authentication API.
+Frontend screens.
+Testing timeline.
+
+Decision:
+Release next Monday.
+
+Action Item:
+Bob completes Authentication API by Tuesday.

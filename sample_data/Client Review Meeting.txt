@@ -1,0 +1,14 @@
+Client Review Meeting
+
+Agenda:
+Dashboard improvements.
+
+Discussion:
+Client requested better reporting.
+Analytics postponed.
+
+Decision:
+Prioritize reporting module.
+
+Action Item:
+Rohan prepares UI mockups by Wednesday.

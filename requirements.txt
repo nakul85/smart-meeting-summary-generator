@@ -1,0 +1,8 @@
+streamlit==1.46.1
+google-genai
+chromadb
+sentence-transformers
+pydantic
+python-dotenv
+pandas
+numpy
